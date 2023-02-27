@@ -9,6 +9,6 @@ public class gg {
         System.out.println("hello master");
         System.out.println("hello hot_fix2");
         System.out.println("remote test");
-        System.out.println("远程库提交");
+        System.out.println("远程库修改");
     }
 }
