@@ -11,5 +11,6 @@ public class gg {
         System.out.println("remote test");
         System.out.println("远程库修改");
         System.out.println("remote test2");
+        System.out.println("hello gitee");
     }
 }
